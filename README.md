@@ -3,13 +3,13 @@ You work for a small, fast moving startup with 20 software engineers. Up to now 
 
 Your small team has been asked to research and write a handbook of best practices. Existing and new members of the team will read this to learn what is the "right way" to do things in this company.
 
-The handbook should cover the following topics:
+* The handbook should cover the following topics:
 
-Task estimation in Scrum
+  * Task estimation in Scrum
 
-Coding standards
+  * Coding standards
 
-Code reviews
+  * Code reviews
 
 # Handbook content
 Find 5 good quality resources (articles, blog posts etc) related to each topic and identify common themes among them. You should prioritize resources that talk about personal experiences of the topic, rather than academic articles that just talk about the theory. For example in Task Estimation its more interesting to read about the challenges of accurately estimating tasks rather than finding articles that just describe what "planning poker" is.
