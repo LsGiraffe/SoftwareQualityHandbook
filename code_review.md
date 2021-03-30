@@ -2,10 +2,9 @@
 
 The main objective of the code review process is to evaluate all new code for bugs, errors and quality standards set by the organization. Every team can benefit from code reviews regardless of the development methodology. Agile teams, however, can realize huge benefits because the work is decentralized within the team. No one person is the only one who knows a specific part of the code base. Simply put, code reviews facilitate knowledge sharing within the code base and within the team. But the code review process should not be limited to one-way feedback. Therefore, an intangible benefit of the code review process is the collective improvement of the team's skills by exposing each other to a different approach to the topic at hand and thus being able to mentor new engineers by sharing our knowledge. This in turn reduces development costs through knowledge sharing and improves code performance because due to lack of experience, some young developers may not know the optimization techniques that could be applied to their code. The code review process allows these developers to gain skills and improve the performance of their code. In addition, it gives these young developers a chance to hone their skills and become experts in their field. The code reviews help create a certain cohesion within the team and bring a better communication on the project.
  
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fquickbirdstudios.com%2Fblog%2Fcode-review-best-practices-guidelines%2F&psig=AOvVaw25mrVtPdxp9ZwtSPqFCs09&ust=1617229823138000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCG5duI2e8CFQAAAAAdAAAAABAD)
+ ![image](https://user-images.githubusercontent.com/39206476/113065208-646bf380-91b0-11eb-8512-f578c68cf3d6.png)
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmartbear.com%2Flearn%2Fcode-review%2Fagile-code-review-process%2F&psig=AOvVaw0B7hyrRYIlEIS5JKVn5afy&ust=1617229790894000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCNncyI2e8CFQAAAAAdAAAAABAD)
-
+ ![image](https://user-images.githubusercontent.com/39206476/113065222-68981100-91b0-11eb-9218-fa0da8b229ba.png)
  
 To summarize, here are the positive points of a code review
 - Reduce costs
