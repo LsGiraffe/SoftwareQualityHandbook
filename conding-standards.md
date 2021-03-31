@@ -32,7 +32,7 @@ highlighting to potential errors that have been made in term of coding standard,
 on how to fix it.
 
 
-Ressources :
+### Ressources :
 * https://www.freecodecamp.org/news/the-100-correct-coding-style-guide-5b594a1655f0/
 * https://dzone.com/articles/tips-for-implementing-code-standards
 * https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/
