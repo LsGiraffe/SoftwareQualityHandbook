@@ -30,3 +30,11 @@ is to have an automated tool that checks automatically the new code at every com
 how well it respects the guidelines. For example if the technology used is .NET, Team Foundation Server allow the organization to setup a checker that automatically checks the code,
 highlighting to potential errors that have been made in term of coding standard, but also regarding the quality of the code, potential security breachs, and it gives recommendations
 on how to fix it.
+
+
+Ressources :
+* https://www.freecodecamp.org/news/the-100-correct-coding-style-guide-5b594a1655f0/
+* https://dzone.com/articles/tips-for-implementing-code-standards
+* https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/
+* https://dev.to/georgehanson/why-are-coding-standards-important-49dp
+* https://www.linkedin.com/pulse/motivation-importance-coding-standards-himalya-bansal/
