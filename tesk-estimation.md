@@ -7,6 +7,9 @@ Task estimation in scrum agile projects in a crucial part of the developement pr
 There are several techniques that teams can use to estimate the difficulty of the tasks. The most popular one is the planning poker. The planning poker is a meeting where all the
 members of the team are reunited to estimate togtether the tasks. Each task is passed on the table and everyone must say a number that correspond to how much he thinks the task
 is complicated. The team has to come to an agreement based on what everyone answered and on the discussion they had about it.
+A common practice when estimating tasks is to not use days as an unit but story points, which is a representation of how complicated the task is. Story points are usually following a fibonacci sequence (1, 2, 3, 5, 8, 13, 21 ..). Story points allows the team to have a more general vision of the task, also using days as an unit is most of the time
+inaccurate since it depends on who does the task and there is often unpredicted things that happen to be done to complete the task.
+To be more accurate on the estimations and having more vision over the sprint, the teams can estimate the tasks twice, in days/hours and in story points. That allows to ensure that every aspect of every task has been taken into consideration. However, estimating twice has disavantages. For example if the team is accurate enough with story points, estimating in hours may only be a waste of time since it won't bring anything more. Also working in hours is often not appreciated by developers since it push them to to their task in the estimated time. That is a source of pressure and it can be unfair in the case that the task has been underestimated. 
 
 ### How to estimate efficiently
 
@@ -20,5 +23,10 @@ deeply :
 * Expertise: Does any of the participants have done similar story before and is an expert in it ?
 
 
+
+
 ### Ressources :
+* https://medium.com/serious-scrum/best-way-to-estimate-effort-using-story-point-in-sprint-planning-f43ad2d6fa91
 * https://www.softwaretestinghelp.com/agile-estimation-techniques/
+* https://www.projectmanagement.com/blog/blogPostingView.cfm?blogPostingID=46054&thisPageURL=/blog-post/46054/Task-Estimation-with-Scrum#_=_
+* https://maartendalmijn.com/why-estimate-twice-in-scrum-fd0d68744501
