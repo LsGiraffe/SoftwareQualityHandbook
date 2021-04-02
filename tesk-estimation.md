@@ -22,11 +22,22 @@ deeply :
 * Acceptance Testing: What are the points to be taken care to deliver the desired product as desired by the Customers ?
 * Expertise: Does any of the participants have done similar story before and is an expert in it ?
 
+### Useful tools
 
+There is several tools that facilitate task estimation and make it faster. For example, for planning poker, a lot of services can be found online by searching on google for "planning poker tools". To regroup all the tasks, write them before estimate them, and store them with all necessary informations after the estimation, the team can use a scrum project manager such as jira or trello. These tools allow to create the tasks, assign them to the right person, assign them story points, priority levels, and allow developers to move the task in areas corresponding to their level of advancement. The levels of advancement usually are :
+
+* backlog - the tasks are stored here before having being estimated
+* todo - the tasks has been estimated and need to be assigned to someone
+* ongoing - the task has been assigned to someone and he is working ont it
+* to review - the task is completed and needs to be validated in a code review
+* to test - the task has been validated in the review and the final test have to be done
+* done - the task is fully tested and completed
+* to fix - the task has been considered finished but some changes have been found to be done
 
 
 ### Ressources :
 * https://medium.com/serious-scrum/best-way-to-estimate-effort-using-story-point-in-sprint-planning-f43ad2d6fa91
 * https://www.softwaretestinghelp.com/agile-estimation-techniques/
+* https://hubstaff.com/tasks/agile-estimation-techniques
 * https://www.projectmanagement.com/blog/blogPostingView.cfm?blogPostingID=46054&thisPageURL=/blog-post/46054/Task-Estimation-with-Scrum#_=_
 * https://maartendalmijn.com/why-estimate-twice-in-scrum-fd0d68744501
