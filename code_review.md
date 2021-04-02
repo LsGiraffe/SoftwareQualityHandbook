@@ -23,9 +23,9 @@ Let's talk about the bad uses of code reviews and the things to avoid during the
 One of the most important things in a team is cohesion and trust, it's important to know how to question each other and accept the objections of other developers. When we criticize something, we tend to highlight only the bad points and never the good. While a good code review is about pointing out imperfections in the code, your feedback should not be limited to finding errors. When you do reviews, you can also use comments to praise someone's good work. Do this especially if you learned something from the code or noticed a solution that you would not have found yourself. On the other hand, it is important not to hesitate to participate in code reviews, as some people are afraid to say what they think for fear of offending. In the way of saying things it is better for everyone to make suggestions rather than give orders such as, it allows others to come and ask themselves the question "what can it bring" rather than just execute the order. For example, if someone says "You should use getter and setter. This code is wrong. "This will discredit the developer's code and it may hurt the person's feelings, so it's better to offer a suggestion: In this case, "I would recommend using getter and setter, because..." This will allow the developer to research the topic and realize their mistake for themselves.
 
 Resources:
-https://hackernoon.com/code-review-for-real-people-261e3d9124ba
-https://tsh.io/blog/code-review-best-practices/
-https://www.atlassian.com/agile/software-development/code-reviews
-https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers
-https://phauer.com/2018/code-review-guidelines/
+* https://hackernoon.com/code-review-for-real-people-261e3d9124ba
+* https://tsh.io/blog/code-review-best-practices/
+* https://www.atlassian.com/agile/software-development/code-reviews
+* https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers
+* https://phauer.com/2018/code-review-guidelines/
 
