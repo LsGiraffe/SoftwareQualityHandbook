@@ -35,7 +35,7 @@ There is several tools that facilitate task estimation and make it faster. For e
 * to fix - the task has been considered finished but some changes have been found to be done
 
 
-### Ressources :
+### Resources :
 * https://medium.com/serious-scrum/best-way-to-estimate-effort-using-story-point-in-sprint-planning-f43ad2d6fa91
 * https://www.softwaretestinghelp.com/agile-estimation-techniques/
 * https://hubstaff.com/tasks/agile-estimation-techniques
