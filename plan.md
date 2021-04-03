@@ -20,9 +20,9 @@
 * Rework together on Step 2 if some reviews are negative
 
 ## 4 - Write handbook (3 days)
-* Write the part on code reviews
-* Write the part on coding standards
-* Write the part on task estimation
+* Write the part on code reviews -> Tom
+* Write the part on coding standards -> Louis
+* Write the part on task estimation -> Louis
 
 ## 5 - Review handbook (1 day)
 * Review the part on code reviews - merge on develop if the review is positive
